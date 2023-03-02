@@ -47,5 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-pl
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+<br />
+
 ### Github Stats
 [![My Stats](https://github-readme-stats.vercel.app/api?username=juanpablosgu&count_private=true&show_icons=true&theme=dark&hide=issues)](https://github.com/juanpablosgu/github-readme-stats)
